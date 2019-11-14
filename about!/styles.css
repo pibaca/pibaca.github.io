@@ -1,0 +1,34 @@
+
+body {font-family: "calibri";
+  background-color: #c2d6d6;
+}
+
+h1 {
+  color: white;
+  margin-left: 80px;
+  font: courier;
+  border: 5px #ffffff
+  ;
+}
+p1 {
+  text-align: center;
+    font-family: "calibri";
+    
+}
+
+h.round1 {
+  border: 10px #ffffff ;
+  border-radius: 7px;
+  text-align: center;
+}
+h2 {
+  color: white;
+  margin-left: 80px;
+  font: "courier";
+  border: 5px #ffffff
+  ;
+}
+p1 {
+  text-align: center;
+    
+}
